@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.0.0",
-    "generatedAt": "2026-10-16T01:29:23.590027310Z",
+    "version": "1.1.0",
+    "generatedAt": "2026-10-16T02:00:51.361805646Z",
     "templateType": "trip_g",
     "propertyId": "7932bf01-9e4e-42e5-a222-9f8d11a66d51",
     "homepageId": "01a14248-2f74-7c50-bd14-fe0fd509532b"
@@ -218,6 +218,47 @@
             "id": "01a14248-2f31-7ace-aefa-6355073065a0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/1014bd41-b87f-4080-b69b-0b513f35a44c/main/1792113388191-vg3eyzkg7n.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
+        "id": "b43f17fd-8933-485a-8072-765652037bec",
+        "name": "편의 및 주변 시설",
+        "description": "",
+        "usageGuide": "- 와이파이 보유\n- OTT 이용 불가\n- 서비스: 음료, 생수 무료 제공\n\n- 마트: 식자재 마트 (차량 약 20분)",
+        "displayOrder": 3,
+        "images": [
+          {
+            "id": "01a1426e-bcd7-7624-8e04-9e6f436885cd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b43f17fd-8933-485a-8072-765652037bec/main/1792115915007-g8nfqlt0my.webp",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1426e-bb9a-727c-9573-5b6100f02251",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b43f17fd-8933-485a-8072-765652037bec/main/1792115914915-onkpbezxaj.webp",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1426e-bbd0-7566-b3f8-e55b99b2ef10",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b43f17fd-8933-485a-8072-765652037bec/main/1792115914910-dnhfoobbmt.webp",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1426e-bc3c-70e8-b69e-c993adb5e9f2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/b43f17fd-8933-485a-8072-765652037bec/main/1792115915006-ocr4f1450x.webp",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
